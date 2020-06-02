@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  AutoDemo
+//
+//  Created by fj zheng on 2019/9/11.
+//  Copyright © 2019 fj zheng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "UIColor+IMColor.h"
+
+#define KColorValue    @"666666" //
+
+#endif /* PrefixHeader_pch */
